@@ -1,1 +1,1 @@
-"# GoScripts" 
+# GoScripts
